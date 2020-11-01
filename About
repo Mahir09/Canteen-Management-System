@@ -5,3 +5,8 @@ We Will Design This program output later on.
 DATE::17/10/2020
 I modified Owner Login completely and format all the prints values and fix some errors.
 If you do not understand run the updated file and also run the previous file and you automatically see the difference.
+
+DATE::19/10/2020
+In this update i just modified remaining two logins(Employee & Coustomer).
+Also i remove unnecessary Header Files which i added previously.
+In upcoming update i try to improve the all over desing and features of my project.
