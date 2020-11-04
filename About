@@ -10,3 +10,7 @@ DATE::19/10/2020
 In this update i just modified remaining two logins(Employee & Customer).
 Also i remove unnecessary Header Files which i added previously.
 In upcoming update i try to improve the all over design and features of my project.
+
+DATE::04/11/2020
+In This update i fix some bugs and error related to File handling.
+In Update menu for both Employee & Product if we enter previously used key so it effects of searching product and deleting product by their ID or KEY . So i fix it.
